@@ -4,7 +4,7 @@ IPV4_HOST='10.40.0.130'
 IPV6_LINKLOCAL='fe80::227:22ff:fe16:8b12%eth1'
 USERNAME='ubnt'
 PASSWORD='ubnt'
-CONF='./system.cfg'
+CONF='/path/to/system.cfg'
 TMP_FILE='/tmp/ping_ensure_config'
 PING_COUNT=3
 
