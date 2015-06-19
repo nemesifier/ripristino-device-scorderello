@@ -7,7 +7,7 @@ Riconfigurazione automatica device scorderello
 4. Provare a lanciare lo script manualmente per assicurarsi che funzioni correttamente
 5. Mettere lo script in cron, ogni 5 minuti è sufficiente, "crontab -e"
 
-Eg:
+Eg::
 
     5 * * * * <path>/airos_ensure_config.sh >/dev/null 2>&1
 
