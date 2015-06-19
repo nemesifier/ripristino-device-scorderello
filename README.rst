@@ -22,5 +22,5 @@ Dipendenze
 E' un hack temporaneo
 =====================
 
-Questo è un hack temporaneo che permettere di prendere tempo e continuare a far funzionare la rete mentre si cerca la situazione definitiva.
+Questo è un hack temporaneo che permette di prendere tempo e continuare a far funzionare la rete mentre si cerca la situazione definitiva.
 
